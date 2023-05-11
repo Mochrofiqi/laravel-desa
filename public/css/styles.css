@@ -1,0 +1,90 @@
+body {
+    font-family: 'Segoe UI';
+    font-size: larger;
+}
+header {
+    display: inline;
+}
+h1{
+    font-family: 'Lucida Sans Regular';
+    text-align: left;
+    color: rgb(255, 255, 255);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color: rgb(78, 71, 61);
+}
+h2, h3 {
+    color:  rgb(78, 71, 61);
+}
+h4{
+    color:  rgb(78, 71, 61);
+    text-align: left;
+}
+.judul{
+    font-size: larger;
+    text-align: center;
+}
+.head {
+    font-size: 20px;
+    padding: 30px;
+    background-color: rgb(184, 165, 143);
+    text-align: center;
+    color: rgb(247, 234, 234);
+    font-size: x-large;
+}
+nav {
+    background-color: rgb(78, 71, 61);
+    padding: 1px;
+    position: sticky;
+    top: 0;
+}
+a {
+    font-family: 'Lucida Sans Regular';
+    font-size: 20px;
+    font-weight: 300;
+    text-decoration: none;
+    color: rgb(0, 0, 0);
+    box-shadow: 0 6px 10px 0 rgba(255, 255, 255, 0.2);
+    border-radius: 1px;
+    padding: 10px;
+    background-color: rgb(179, 160, 136);
+}
+li {
+    display: inline;
+    list-style-type: none;
+    margin-right: 10px;
+}
+#center{
+    float: none;
+    width: 2%;
+    background-color: rgb(255, 255, 255);
+}
+.box {
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+    background-color: rgb(230, 219, 207);
+}
+
+footer {
+    padding: 10px;
+    color: white;
+    background-color:  rgb(78, 71, 61);
+    text-align: center;
+}
+
+form{
+    font-family: 'Lucida Sans Regular';
+    text-align: left;
+    color: rgb(0, 0, 0);
+    box-shadow: 0 4px 8px 0 rgba(0, 0, 0, 0.2);
+    border-radius: 5px;
+    padding: 20px;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    background-color:rgb(238, 228, 228);
+}
