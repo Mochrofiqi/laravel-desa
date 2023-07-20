@@ -21,7 +21,7 @@
                                 <div class="col-lg-3 col-md-6 info mt-4 mt-lg-0">
                                     <i class="bi bi-clock"></i>
                                     <h4>Buka :</h4>
-                                    <p>Senin-Sabtu:<br>10:00 - 15.00 WITA</p>
+                                    <p>Senin-Sabtu:<br>08.00 - 15.00 WITA</p>
                                 </div>
 
                                 <div class="col-lg-3 col-md-6 info mt-4 mt-lg-0">

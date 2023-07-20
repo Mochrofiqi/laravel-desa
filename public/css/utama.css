@@ -184,6 +184,10 @@
       background-color: rgb(78, 71, 61);
   }
 
+  h6{
+    font-size: 18px;
+    font-weight: 400;
+  }
 
 .chart{
     margin-left: 75px;
